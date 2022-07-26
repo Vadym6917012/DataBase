@@ -1,0 +1,14 @@
+C:\Users\vadim\Desktop\DB\UniApp.Core\bin\Debug\net6.0\UniApp.Core.deps.json
+C:\Users\vadim\Desktop\DB\UniApp.Core\bin\Debug\net6.0\UniApp.Core.runtimeconfig.json
+C:\Users\vadim\Desktop\DB\UniApp.Core\bin\Debug\net6.0\UniApp.Core.dll
+C:\Users\vadim\Desktop\DB\UniApp.Core\bin\Debug\net6.0\UniApp.Core.pdb
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.AssemblyInfo.cs
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.dll
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\refint\UniApp.Core.dll
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.pdb
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\UniApp.Core.genruntimeconfig.cache
+C:\Users\vadim\Desktop\DB\UniApp.Core\obj\Debug\net6.0\ref\UniApp.Core.dll
